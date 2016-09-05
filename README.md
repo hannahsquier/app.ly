@@ -2,7 +2,7 @@
 
 ## Overview
 
-College SC is a resource for college applicants and their families. Easily search from 500 colleges and universities. Browse through important information about admissions, the student body, finances, and academics.
+App.ly is a resource for college applicants and their families. Easily search from 500 colleges and universities. Browse through important information about admissions, the student body, finances, and academics.
 
 [Check it out!](https://applyapp.herokuapp.com)
 ## Features
@@ -17,17 +17,17 @@ Data comes from the College Scorecard API.
 
 # Preview
 
-## 1. Search Schools Based on Many Userful Criteria
+## 1. Search Schools By Multiple Criteria
 ![Screenshot](screenshots/screenshot1.png)
 
 ## 2. View School Map, Image, and General Stats
 
 ![Screenshot](screenshots/screenshot2.png)
 
-## 3. Checkout Beautiful Charts
+## 3. Check Out Beautiful Charts
 ![Screenshot](screenshots/screenshot3.png)
 
-## 4. Compare Your Schools Side By Side
+## 4. Compare Your Schools Side-by-Side
 ![Screenshot](screenshots/screenshot4.png)
 
 ## 5. Keep Track of Admissions Process with Timeline and Checklist
